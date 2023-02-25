@@ -1,0 +1,19 @@
+.fclass {
+    background-color: rgb(255, 153, 153);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.fclass.child {
+    font-size: 24px;
+}
+
+#first {
+    color: blue;
+    font-size: 36px;
+}
+
+#second {
+    background-color: rgb(102, 255, 102);
+    font-size: 24px;
+    font-weight: bold;
+}
